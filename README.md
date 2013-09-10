@@ -1,11 +1,8 @@
-PS3IS
-=====
-
-PS3 Image Search
-
-=====
+PS3IS (PS3 Image Search)
+======
 
 Abstract
+-------
 As computer games consoles become more and more like computers the need for
 forensic investigation methodologies and software also increases. Many new games
 console have hard drives that are able to store images, films and music on them and

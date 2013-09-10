@@ -1,8 +1,6 @@
 PS3IS (PS3 Image Search)
 ======
 
-Abstract
--------
 As computer games consoles become more and more like computers the need for
 forensic investigation methodologies and software also increases. Many new games
 console have hard drives that are able to store images, films and music on them and
@@ -14,3 +12,5 @@ carver for two games consoles.
 
 The PS3 Image Search program will search a specific folder on the internal HDD for .jpg image files. 
 The user can then copy these images files to a external USB device.
+
+PS3IS requires the PS3 console to be able to run homebrew, either by custom firmware or hardware modification.

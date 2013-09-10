@@ -11,3 +11,6 @@ modified to run homebrew applications that give access to hidden areas of the st
 the games console, adding further hiding places for illegal files. This report describes
 different consoles and their method of modification and the implementation of an image
 carver for two games consoles.
+
+The PS3 Image Search program will search a specific folder on the internal HDD for .jpg image files. 
+The user can then copy these images files to a external USB device.
